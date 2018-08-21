@@ -58,18 +58,18 @@ Based on code by:
 3) open the file A2S2_prj.exe (should have installed Scratch 2 before)
 4) connect an Arduino Uno to your computer
 
-!(https://github.com/arduino/A2S2/raw/master/doc/img/A2S2_UI.PNG "A2S2 user interface")
+![A2S2 user interface](https://github.com/arduino/A2S2/raw/master/doc/img/A2S2_UI.PNG "A2S2 user interface")
 
 5) the system will autodetect your board
 6) "Fix Board" will install Firmata Plus on your board (the software needed to communicate with Scratch). It will do so by opening a command window and calling AVRDUDE, a program that uploads code to Arduino
 
-!(https://github.com/arduino/A2S2/raw/master/doc/img/AVRDUDE.PNG "command window programming an Arduino Uno with Firmata Plus")
+![AVRDUDE programming Arduino](https://github.com/arduino/A2S2/raw/master/doc/img/AVRDUDE.PNG "command window programming an Arduino Uno with Firmata Plus")
 
 7) "Launch A2S2" opens the Python server communicating Arduino to Scratch. It does so by opening a command window, do not close it! Also, you should wait until it is done launching the server (10s)
 
-!(https://github.com/arduino/A2S2/raw/master/doc/img/S2A.PNG "S2A Python server in action")
+![S2A Python server](https://github.com/arduino/A2S2/raw/master/doc/img/S2A.PNG "S2A Python server in action")
 
 8) "Scratch 2" is the button that will open Scratch including the extension that can communicate to Firmata Plus
 
-!(https://github.com/arduino/A2S2/raw/master/doc/img/Scratch.PNG "Scratch 2 with a blink example running on an Arduino Uno")
+![Scratch 2](https://github.com/arduino/A2S2/raw/master/doc/img/Scratch.PNG "Scratch 2 with a blink example running on an Arduino Uno")
 
