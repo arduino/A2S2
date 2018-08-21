@@ -39,12 +39,14 @@ instructions on how to do this at: https://scratch.mit.edu/download
 This code is licensed under GPLV3 or later, see license file for more information
 
 (c) 2018 Arduino LLC
+
 Code: D. Cuartielles
+
 Graphics: L. Balboa
 
 Based on code by:
 * Alan Yorinks (creator of the S2A python server)
-* Sébastien Canet (creator of the first UI for S2A on Windows)
+* SÃ©bastien Canet (creator of the first UI for S2A on Windows)
 * The AVRdude community
 
 ## RELEASES
